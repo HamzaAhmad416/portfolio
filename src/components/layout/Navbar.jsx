@@ -9,6 +9,7 @@ import {
 
 const navItems = [
   "home",
+  "about",
   "experience",
   "skills",
   "projects",
