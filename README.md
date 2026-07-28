@@ -32,7 +32,6 @@ Nested map()
 React Icons
 Framer Motion
 whileInView
-whileInView
 TypeAnimation
 Anchor Links
 react-scroll
