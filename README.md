@@ -34,6 +34,7 @@ Framer Motion
 whileInView
 TypeAnimation
 Anchor Links
+
 react-scroll
 Tailwind CSS
 Responsive Design
